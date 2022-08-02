@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @albanv01
 - 👀 I’m interested in web development and QA
 - 🌱 I’m currently learning Java, Python, JavaScript and C#
-- 💞️ I’m looking to collaborate on every project I can learn something
+- 💞️ I’m looking to collaborate on every project I can learn something from
 - 📫 How to reach me... just send me a message!
 
 <!---
